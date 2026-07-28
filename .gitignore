@@ -1,0 +1,27 @@
+# Variables de entorno y secretos privados
+.env
+.streamlit/secrets.toml
+
+# Entorno virtual y dependencias de Python
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+
+# Base de datos local SQLite
+inventario_local.db
+*.sqlite
+*.sqlite3
+*.db
+
+# Carpetas de configuración locales
+.agents/
+.claude/
+.gemini/
+.vscode/
+.idea/
+
+# OS/System files
+.DS_Store
+Thumbs.db

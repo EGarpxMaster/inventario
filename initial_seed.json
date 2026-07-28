@@ -1,0 +1,462 @@
+[
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Pasta de dientes",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673344"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Papel higiénico",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673355"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Shampoo",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673358"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Acondicionador",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673359"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Jabon de cuerpo",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673360"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Desodorante",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673362"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Pincitas",
+    "stock_ideal": 2.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "PENDIENTE",
+    "notas": "Si hay pero no la venden sola",
+    "updated_at": "2026-07-28T14:17:35.673363"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Rastrillo/cuchillas de afeitar",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "PENDIENTE",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673364"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Toallas sanitarias/tampones",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "LO ACTUALIZAS O TE FUNO",
+    "updated_at": "2026-07-28T14:17:35.673366"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Hilo dental",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "EMMANUEL GARCIA PENALOZA",
+    "updated_at": "2026-07-28T14:17:35.673367"
+  },
+  {
+    "categoria": "Personal (ambos)",
+    "concepto": "Toallitas faciales (lupita)",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "PENDIENTE",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673368"
+  },
+  {
+    "categoria": "Limpieza de baño y cuarto",
+    "concepto": "Cloro",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673370"
+  },
+  {
+    "categoria": "Limpieza de baño y cuarto",
+    "concepto": "Pinol",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673372"
+  },
+  {
+    "categoria": "Limpieza de baño y cuarto",
+    "concepto": "Cepillo para lavar el baño",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673373"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Pollo",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "KILO",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673374"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Atún",
+    "stock_ideal": 8.0,
+    "stock_actual": 2.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673376"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Manzana",
+    "stock_ideal": 6.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673378"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Uvas",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PAQUETE",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673379"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Fresa",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PAQUETE",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673380"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Lechuga",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PAQUETE",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673382"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Espinaca",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PAQUETE",
+    "estatus": "NO HAY EN EL SUPER",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673383"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Zanahoria",
+    "stock_ideal": 6.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673384"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Camarones",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "KILO",
+    "estatus": "PENDIENTE",
+    "notas": "Esos no se compran en el super",
+    "updated_at": "2026-07-28T14:17:35.673386"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Huevo",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "Solo es para la despensa",
+    "updated_at": "2026-07-28T14:17:35.673387"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Leche",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": ".-.",
+    "updated_at": "2026-07-28T14:17:35.673389"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Pan bimbo",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673390"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Salmas",
+    "stock_ideal": 2.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673391"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Arroz",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673392"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Frijol refrito",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673393"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Pasta",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673395"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Café grande",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673396"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Queso mancheco",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673397"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Jamon",
+    "stock_ideal": 1.0,
+    "stock_actual": 1.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673398"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Chuleta (la que le gusta a lupita)",
+    "stock_ideal": 2.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673399"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Plátano",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673400"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Suero",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "PENDIENTE",
+    "notas": "Pasar a Simi",
+    "updated_at": "2026-07-28T14:17:35.673401"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Brocoli",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673404"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Mantequilla",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673405"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Ajo",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "HAY EN CASA",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673406"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Cebolla",
+    "stock_ideal": 2.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673407"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Salchichas",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673408"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Pan de Hot dog",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673409"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Limón",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673410"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Queso chihuahua",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "NO HAY EN EL SUPER",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673411"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Maggi",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "PENDIENTE",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673413"
+  },
+  {
+    "categoria": "Comida",
+    "concepto": "Tocino",
+    "stock_ideal": 1.0,
+    "stock_actual": 0.0,
+    "unidad_medida": "PZA",
+    "estatus": "COMPRADO",
+    "notas": "",
+    "updated_at": "2026-07-28T14:17:35.673414"
+  }
+]
